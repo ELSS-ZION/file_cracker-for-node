@@ -1,0 +1,23 @@
+{
+  "name": "file_cracker",
+  "version": "1.0.0",
+  "description": "Flexible file batch package, template supported.",
+  "main": "file_cracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ELSS-ZION/file_cracker-for-node.git"
+  },
+  "keywords": [
+    "file",
+    "batch"
+  ],
+  "author": "elss-zion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ELSS-ZION/file_cracker-for-node/issues"
+  },
+  "homepage": "https://github.com/ELSS-ZION/file_cracker-for-node#readme"
+}

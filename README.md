@@ -1,1 +1,0 @@
-# file_cracker-for-node
